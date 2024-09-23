@@ -1,1 +1,4 @@
 sistema de autenticacion
+enviara un codigo a su mail
+se enviara un sms al telefono registrado
+se verificara que usted no es un robot
