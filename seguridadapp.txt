@@ -1,1 +1,3 @@
-cree un sistema de seguridad de dos pasos para la confirmacion de usuario 
+cree un sistema de seguridad de dos pasos para la confirmacion de usuario
+cuando el usurio introduce su clave se enviara un codigo a un dispositivo y tiene que confirmarlo.
+se preguntara nombre de tu perro, hobbie y/o tu color favorito
