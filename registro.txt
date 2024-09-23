@@ -1,1 +1,2 @@
 Este es el apartado de de egistro para que los usuarios puedan comprar.
+Agregue una funcion para que solo se pueda registrar con un solo mail.
