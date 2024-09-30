@@ -1,0 +1,2 @@
+Escribo primera linea de texto del archivo información.
+Escribo la segunda línea.
