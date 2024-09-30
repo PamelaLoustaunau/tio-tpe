@@ -1,1 +1,2 @@
-Este archivo eh paa loguearse.
+Este archivo es para loguearse.
+Arregle algunas faltas. Modifique los campos.

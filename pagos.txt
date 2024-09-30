@@ -1,1 +1,2 @@
-Este es el script de pagos onde s provee como servicio al usuari
+Este es el script de pagos donde se provee como servicio al usuario.
+Añadi una verificación de dos pasos.
