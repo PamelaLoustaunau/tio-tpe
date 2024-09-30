@@ -1,1 +1,2 @@
 Acá se pueden agregar cualquiera de las compras que realice.
+hacemos el cambio de a pares (problema 15)
